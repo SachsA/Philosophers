@@ -1,6 +1,8 @@
 Epitech, SECOND year Project. C Concurency : Makes the philosophers eat !
 
 The goal of the project is to make some philosophers eat, sleep and think :
+It uses slaves.
+
 To compile : make.
 
 To recompile the project : make re.
