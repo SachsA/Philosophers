@@ -1,16 +1,20 @@
-Epitech, SECOND year Project. C Concurency : Makes the philosophers eat !
+# Philosophers
+### Makes the philosophers eat !
 
-The goal of the project is to make some philosophers eat, sleep and think :
-It uses slaves.
+### Goal
+###### The project : Make some philosophers eat, sleep and think : it uses slaves.
 
-To compile : make.
+### Program compilation and launch:
+  ```sh
+        make
+```
+  ```sh
+        ./philo
+```
 
-To recompile the project : make re.
+### Usage
+- The bonus will make you see who eats, tinks, sleeps... Compile like that : make BONUS=yes
 
-To clean all : make fclean.
-
------> It will compile you a binary : ./philo.
-
-The bonus will make you see who eats, tinks, sleeps.... Compile like that : make BONUS=yes
-
-Developpers of the project : Alexandre Sachs, Martin Cotoni. (Both in Epitech Bordeaux)
+#### Project realised by:
+- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Martin Cotoni : [martin.cotoni@epitech.eu](https://github.com/cotonim)**
